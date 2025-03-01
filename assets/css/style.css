@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+/* EJERCICIO N° 1 */
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  margin-left: 30px;
+}
+
+.descripcion {
+  margin-left: 30px;
+}
