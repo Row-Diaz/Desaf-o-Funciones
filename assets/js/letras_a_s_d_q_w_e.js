@@ -1,3 +1,5 @@
+// EJERCICIO DE LETRAS a,s,d
+
 let caja1 = document.getElementById('key')
 let caja2 = document.getElementById('key2')
 
@@ -13,6 +15,9 @@ document.addEventListener('keydown', function (event) {
         caja1.style.backgroundColor= 'skyblue'
     }
 });
+
+
+// EJERCICIO DE LETRAS q,w,e
 
 document.addEventListener('keydown', function (event) {
     caja2.classList.remove('inactive');
